@@ -1,3 +1,4 @@
 pyrightconfig.json
 Pipfile.lock
 pyrightconfig
+*.sqlite3
